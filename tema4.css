@@ -1,0 +1,19 @@
+body{
+font-family: 'Open Sans', sans-serif;
+}
+
+h1{
+    font-size: 28px;
+}
+
+a{
+    color: white; background-color: blue;
+}
+
+#js h2, #js h3{
+color: rebeccapurple;
+}
+
+#js p {
+    color: purple;
+}
